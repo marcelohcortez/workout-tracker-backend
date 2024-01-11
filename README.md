@@ -6,8 +6,8 @@ MERN project to track workout exercises. Including 'add workout' page, 'list wor
 The workouts list only shows the workouts created by the registered user.
 On the live project the 'signup' is deactivated for security reasons.
 To log in the live project use the following credentials:
-    username: 'livetest'
-    password: 'livetest123'
+    username: 'testlive@testlive.com'
+    password: 'ABCabc123!'
 
 ## Tech & 3rd party used in the project:
 - [Node.js](https://nodejs.org/)
