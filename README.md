@@ -2,6 +2,8 @@
 
 **LIVE DEMO: https://workout-tracker-frontend-eta.vercel.app/**
 
+Here is the link for the frontend repo: https://github.com/marcelohcortez/workout-tracker-frontend
+
 MERN project to track workout exercises. Including 'add workout' page, 'list workouts' page and 'login/signup' blog.
 The workouts list only shows the workouts created by the registered user.
 On the live project the 'signup' and the addition of new workouts are deactivated for security reasons.
