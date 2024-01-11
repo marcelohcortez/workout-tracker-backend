@@ -1,6 +1,6 @@
 ## Workout Tracker - Backend
 
-**LIVE DEMO: **
+**LIVE DEMO: https://workout-tracker-frontend-eta.vercel.app/**
 
 MERN project to track workout exercises. Including 'add workout' page, 'list workouts' page and 'login/signup' blog.
 The workouts list only shows the workouts created by the registered user.
@@ -34,4 +34,4 @@ If you are in production you can use the default command:
 npm run start
 ```
 
-**LIVE DEMO: **
+**LIVE DEMO: https://workout-tracker-frontend-eta.vercel.app/**
